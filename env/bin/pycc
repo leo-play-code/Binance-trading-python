@@ -1,0 +1,3 @@
+#!/Users/leo/Desktop/github/side_project/trading/binance_trading/env/bin/python3
+from numba.pycc import main
+main()
