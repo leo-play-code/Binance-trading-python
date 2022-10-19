@@ -1,5 +1,13 @@
 # binance_trading
 
+## Quick start:
+* In Terminal cd to the file path
+
+* In MacOS : source env/bin/activate
+* In Window : pip install -r requirements.txt 
+
+* python3 main.py
+
 ## Advantage :
 * Everytime changing strategy don't need to rewrite the all file , only need to change strategy
 * Reusable
